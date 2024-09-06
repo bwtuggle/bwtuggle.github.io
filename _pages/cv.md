@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Chief Demographer, City of Bellevue, WA <i>(Nov. 2022-Present)<i>
-* Data Scientist, Pierce County, WA <i>(Jan. 2022-Nov. 2022)<i>
+* Data Scientist, Pierce County, WA <i>(Jan. 2022-Oct. 2022)<i>
 * Policy Analyst, The Sycamore Institute <i>(Jan. 2020-Dec. 2022)<i>
 * Graduate Assistant, Vanderbilt University <i>(Aug. 2014-Dec. 2019)<i>
   
