@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "4 Reasons an Accurate Census Matters for Tennessee"
 collection: publications
 category: wps
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2020-02-20-census-4-reasons
+excerpt: 'This paper is about how the accuracy of the Decennial Census impacts funding & policy.'
+date: 2020-02-20
+venue: 'The Sycamore Institute'
+paperurl: 'https://sycamoretn.org/accurate-census-tennessee/'
+citation: 'Tuggle, Bryce. (2020). &quot;4 Reasons an Accurate Census Matters for Tennessee.&quot; <i>The Sycamore Institute</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper is about how the accuracy of the Decennial Census impacts funding & policy.
