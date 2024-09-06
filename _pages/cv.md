@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [Here](https://github.com/bwtuggle/bwtuggle.github.io/blob/master/files/Bryce%20Williams-Tuggle%20Website%20Resume.pdf) to Download my Resume.
+Click [Here](http://bwtuggle.github.io/files/Bryce%20Williams-Tuggle%20Website%20Resume.pdf) to Download my Resume.
 
 Education
 ======
