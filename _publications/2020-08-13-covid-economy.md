@@ -4,7 +4,7 @@ collection: publications
 category: wps
 permalink: /publication/2020-08-13-covid-economy
 excerpt: 'This paper is about the people, places, & businesses most vulnerable to the negative externalities of rapidly spreading communincable diseases.'
-date: 2020-04-15
+date: 2020-08-13
 venue: 'The Sycamore Institute'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://sycamoretn.org/coronavirus-recession-people-places-employers/'
