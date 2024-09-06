@@ -13,16 +13,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Political Science, Vanderbilt University (2021)
+* M.A. in Political Science & International Affairs, The University of Georgia (2014)
+* B.S. in History, Towson University (2007)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Chief Demographer, City of Bellevue, WA (<i>Nov. 2022-Present<i>)
 
 * Fall 2015: Research Assistant
   * Github University
