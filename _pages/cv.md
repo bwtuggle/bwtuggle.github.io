@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+[Click Here to Download my Resume](https://github.com/academicpages/academicpages.github.io)
 {% include base_path %}
 
 Education
