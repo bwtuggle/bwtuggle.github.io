@@ -2,7 +2,7 @@
 title: "2019 Census Data on Tennesseans’ Education Levels"
 collection: publications
 category: wps
-permalink: /publication/2020-10-01-health-insurance-census
+permalink: /publication/2020-10-01-acs-education
 excerpt: 'This paper highlights educational attainment across populous Tennessee areas in 2019.'
 date: 2020-10-01
 venue: 'The Sycamore Institute'
