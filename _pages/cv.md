@@ -24,7 +24,7 @@ Work experience
 * Policy Analyst, The Sycamore Institute <i>(Jan. 2020-Dec. 2022)<i>
 * Graduate Assistant, Vanderbilt University <i>(Aug. 2014-Dec. 2019)<i>
   
-#Skills
+%Skills
 #======
 #* Skill 1
 #* Skill 2
