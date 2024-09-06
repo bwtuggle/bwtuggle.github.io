@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[Click Here to Download my Resume](https://github.com/academicpages/academicpages.github.io)
 {% include base_path %}
+
+[Click Here to Download my Resume](https://github.com/bwtuggle/bwtuggle.github.io/blob/master/files/Bryce%20Williams-Tuggle%20Website%20Resume.pdf)
 
 Education
 ======
