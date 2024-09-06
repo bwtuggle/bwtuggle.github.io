@@ -4,7 +4,7 @@ collection: publications
 category: wps
 permalink: /publication/2021-07-28-covid-update
 excerpt: 'This paper in a follow-up to an earlier paper on the impacts of COVID in Tennessee that explores how things have progressed.'
-date: 2021-07-0828
+date: 2021-07-28
 venue: 'The Sycamore Institute'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://sycamoretn.org/tennessee-covid-economic-recovery/'
