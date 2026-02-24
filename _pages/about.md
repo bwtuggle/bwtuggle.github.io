@@ -19,7 +19,7 @@ I subsequently earned my Ph.D. in political science from Vanderbilt University i
 
 In between my undergraduate and master's programs I worked at the world famous combination pizza restaurant, climbing store, and campground [Miguel's](https://miguelspizza.com/) while living out of my tent and climbing everyday in the beautiful Red River Gorge. I also worked in several breweries ([Stone](https://www.stonebrewing.com/), [Foothills](https://www.foothillsbrewing.com/), and [Terrapin](https://www.terrapinbeer.com/) to be exact) doing everything from operating a bottle filler to running a barrel-aged beer program (feel free to ask me about my gold medal from the Great American Beer Festival).
 
-Before my current role, I worked as the policy analyst for the nonpartisian, non-profity state research center [The Sycamore Institute](https://sycamoretn.org/) based in Nashville, TN.
+Before my current role, I worked as the policy analyst for the nonpartisian, non-profit state research center [The Sycamore Institute](https://sycamoretn.org/) based in Nashville, TN.
 
 ## Beyond the Work
 
