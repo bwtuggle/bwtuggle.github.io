@@ -7,15 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a social scientist based in Seattle, WA, currently working at the [City of Bellevue](https://bellevuewa.gov/) where I use data and research to help government work better for people.
+I'm a social scientist based in Seattle, WA, currently working at the [City of Bellevue](https://bellevuewa.gov/) as the city's Chief Demographer where I use data and research to help government work better for people.
 
-My work sits at the intersection of public policy, human behavior, and applied social science — translating research into practical insights that can actually influence how decisions get made. I'm drawn to questions about how communities function, how institutions respond to change, and how evidence can (and sometimes can't) cut through the noise of public life.
+My work sits at the intersection of public policy, human behavior, and applied social science — translating research and disparate data into practical insights that can actually influence how decisions get made. I'm drawn to questions about how communities function, how institutions respond to change, and how evidence can (and sometimes can't) cut through the noise of public life.
 
 ## Background
 
-[**Add a sentence or two here about your academic background — where you studied, your field/discipline, and any research focus you had.**]
+My udergraduate degree is in history with a focus on Latin American (primarily Mexico). In my master's program at the University of Georgia I studied comparative politics and international relations with a continued focus on Latin America. My thesis was on the ways in which the tumultuous social and political history of Mexico contributed to the persistence of the PRI single-party state for the majority of the 20th Century despite its deep corruption. 
 
-Before my current role, [**add a brief note about prior work or research experience**]. I completed my dissertation on [**topic**], which explored [**brief description**].
+I subsequently earned my Ph.D. in political science from Vanderbilt University in the Summer of 2021. My studies focused primarily on empirical research methodology, political psychology, and comparative politics. My dissertation was on the impact of criminal disenfranchisement in democratic political systems. Specifically I examined how it impacted mass public opinion, the self-perceptions of disenfranchised invdividuals themselves, and measures of democratic good governance.
+
+In between my undergraduate and master's programs I worked at the world famous combination pizza restaurant, climbing store, and campground [Miguel's](https://miguelspizza.com/) while living out of my tent and climbing everyday in the beautiful Red River Gorge. I also worked in several breweries ([Stone](https://www.stonebrewing.com/),[Foothills](https://www.foothillsbrewing.com/), and [Terrapin](https://www.terrapinbeer.com/) to be exact) doing everything from operating a bottle filler to running a barrel-aged beer program (feel free to ask me about my gold medal from the Great American Beer Festival).
+
+Before my current role, I worked as the policy analyst for the nonpartisian, non-profity state research center [The Sycamore Institute](https://sycamoretn.org/) based in Nashville, TN.
 
 ## Beyond the Work
 
@@ -23,4 +27,4 @@ When I'm not doing social science things, I'm usually out running the trails aro
 
 ## Get in Touch
 
-I'm always happy to connect with researchers, practitioners, or curious people working on questions related to [**your subject area**]. Feel free to reach out at [bryce.tuggle@gmail.com](mailto:bryce.tuggle@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/bryce-w-tuggle).
+I'm always happy to connect with researchers, practitioners, or curious people working on questions related to data science, survey research, or the impact of institutions on poltical outcomes. Feel free to reach out at [bryce.tuggle@gmail.com](mailto:bryce.tuggle@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/bryce-w-tuggle).
