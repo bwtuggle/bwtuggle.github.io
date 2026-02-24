@@ -13,7 +13,7 @@ My work sits at the intersection of public policy, human behavior, and applied s
 
 ## Background
 
-My udergraduate degree is in history with a focus on Latin American (primarily Mexico). In my master's program at the University of Georgia I studied comparative politics and international relations with a continued focus on Latin America. My thesis was on the ways in which the tumultuous social and political history of Mexico contributed to the persistence of the PRI single-party state for the majority of the 20th Century despite its deep corruption. 
+My undergraduate degree is in history with a focus on Latin American (primarily Mexico). In my master's program at the University of Georgia I studied comparative politics and international relations with a continued focus on Latin America. My thesis was on the ways in which the tumultuous social and political history of Mexico contributed to the persistence of the PRI single-party state for the majority of the 20th Century despite its deep corruption. 
 
 I subsequently earned my Ph.D. in political science from Vanderbilt University in the Summer of 2021. My studies focused primarily on empirical research methodology, political psychology, and comparative politics. My dissertation was on the impact of criminal disenfranchisement in democratic political systems. Specifically I examined how it impacted mass public opinion, the self-perceptions of disenfranchised invdividuals themselves, and measures of democratic good governance.
 
