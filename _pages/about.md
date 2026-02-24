@@ -28,3 +28,90 @@ When I'm not doing social science things, I'm usually out running the trails aro
 ## Get in Touch
 
 I'm always happy to connect with researchers, practitioners, or curious people working on questions related to data science, survey research, or the impact of institutions on poltical outcomes. Feel free to reach out at [bryce.tuggle@gmail.com](mailto:bryce.tuggle@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/bryce-w-tuggle).
+
+<!-- Easter egg: type "whimsy" anywhere on the page to unlock a surprise -->
+<script>
+(function() {
+  const secret = "whimsy";
+  let typed = "";
+
+  document.addEventListener("keydown", function(e) {
+    if (["INPUT", "TEXTAREA"].includes(document.activeElement.tagName)) return;
+
+    typed += e.key.toLowerCase();
+    if (typed.length > secret.length) {
+      typed = typed.slice(typed.length - secret.length);
+    }
+
+    if (typed === secret) {
+      typed = "";
+      launchDKJr();
+    }
+  });
+
+  function launchDKJr() {
+    const overlay = document.createElement("div");
+    overlay.id = "dkjr-overlay";
+    overlay.style.cssText = [
+      "position:fixed", "top:0", "left:0",
+      "width:100vw", "height:100vh",
+      "background:rgba(0,0,0,0.92)",
+      "z-index:99999",
+      "display:flex",
+      "flex-direction:column",
+      "align-items:center",
+      "justify-content:center",
+      "font-family:monospace"
+    ].join(";");
+
+    const title = document.createElement("div");
+    title.innerHTML = "&#x1F98D; <strong style='color:#f5c518;font-size:1.4rem;'>You found the whimsy.</strong>";
+    title.style.cssText = "color:white;margin-bottom:1rem;font-size:1.1rem;";
+
+    const sub = document.createElement("div");
+    sub.textContent = "Save Donkey Kong. You know what to do.";
+    sub.style.cssText = "color:#aaa;margin-bottom:1.5rem;font-size:0.9rem;";
+
+    const frame = document.createElement("iframe");
+    frame.src = "https://www.free80sarcade.com/nes_Donkeykongjr.php";
+    frame.style.cssText = [
+      "width:min(780px,95vw)",
+      "height:min(600px,70vh)",
+      "border:3px solid #f5c518",
+      "border-radius:6px"
+    ].join(";");
+    frame.setAttribute("allowfullscreen", "true");
+
+    const close = document.createElement("button");
+    close.textContent = "x  Close & return to the serious stuff";
+    close.style.cssText = [
+      "margin-top:1.2rem",
+      "background:transparent",
+      "border:1px solid #555",
+      "color:#aaa",
+      "padding:0.5rem 1.2rem",
+      "border-radius:4px",
+      "cursor:pointer",
+      "font-family:monospace",
+      "font-size:0.85rem"
+    ].join(";");
+    close.onmouseover = function() { close.style.borderColor="#f5c518"; close.style.color="#f5c518"; };
+    close.onmouseout  = function() { close.style.borderColor="#555";    close.style.color="#aaa"; };
+    close.onclick = function() { document.body.removeChild(overlay); };
+
+    document.addEventListener("keydown", function escClose(e) {
+      if (e.key === "Escape" && document.getElementById("dkjr-overlay")) {
+        document.body.removeChild(overlay);
+        document.removeEventListener("keydown", escClose);
+      }
+    });
+
+    overlay.appendChild(title);
+    overlay.appendChild(sub);
+    overlay.appendChild(frame);
+    overlay.appendChild(close);
+    document.body.appendChild(overlay);
+  }
+})();
+</script>
+
