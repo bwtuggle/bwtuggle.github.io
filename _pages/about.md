@@ -2,6 +2,7 @@
 permalink: /
 title: "Hi, I'm Bryce Tuggle"
 author_profile: true
+classes:  wide
 redirect_from: 
   - /about/
   - /about.html
