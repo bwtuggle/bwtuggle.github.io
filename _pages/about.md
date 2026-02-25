@@ -16,11 +16,11 @@ My work sits at the intersection of public policy, human behavior, and applied s
 
 My undergraduate degree is in history with a focus on Latin American (primarily Mexico). In my master's program at the University of Georgia I studied comparative politics and international relations with a continued focus on Latin America. My thesis was on the ways in which the tumultuous social and political history of Mexico contributed to the persistence of the PRI single-party state for the majority of the 20th Century despite its deep corruption. 
 
-I subsequently earned my Ph.D. in political science from Vanderbilt University in the Summer of 2021. My studies focused primarily on empirical research methodology, political psychology, and comparative politics. My dissertation was on the impact of criminal disenfranchisement in democratic political systems. Specifically I examined how it impacted mass public opinion, the self-perceptions of disenfranchised invdividuals themselves, and measures of democratic good governance.
+I subsequently earned my Ph.D. in political science from Vanderbilt University in the Summer of 2021. My studies focused primarily on empirical research methodology, political psychology, and comparative politics. My dissertation was on the impact of criminal disenfranchisement in democratic political systems. Specifically I examined how it impacted mass public opinion, the self-perceptions of disenfranchised individuals themselves, and measures of democratic good governance.
 
 In between my undergraduate and master's programs I worked at the world famous combination pizza restaurant, climbing store, and campground [Miguel's](https://miguelspizza.com/) while living out of my tent and climbing everyday in the beautiful Red River Gorge. I also worked in several breweries ([Stone](https://www.stonebrewing.com/), [Foothills](https://www.foothillsbrewing.com/), and [Terrapin](https://www.terrapinbeer.com/) to be exact) doing everything from operating a bottle filler to running a barrel-aged beer program (feel free to ask me about my gold medal from the Great American Beer Festival).
 
-Before my current role, I worked as the policy analyst for the nonpartisian, non-profit state research center [The Sycamore Institute](https://sycamoretn.org/) based in Nashville, TN.
+Before my current role, I worked as the policy analyst for the nonpartisan, non-profit state research center [The Sycamore Institute](https://sycamoretn.org/) based in Nashville, TN.
 
 ## Beyond the Work
 
