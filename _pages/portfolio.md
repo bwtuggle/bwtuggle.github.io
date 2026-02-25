@@ -28,7 +28,7 @@ The flagship community data dashboard for the City of Bellevue. Organized across
 
 [![Commuting in Bellevue Dashboard](/images/commuting-bellevue.png)](https://bellevuedemographics.shinyapps.io/CommuterProfileApp/)
 
-An interactive dashboard presenting data on commuting patterns relevant to anyone who travels to, from, or within Bellevue for work. Organized thematically across multiple tabs, it covers topics such as commute times, transportation modes, and commute origins and destinations — providing a data-driven picture of how Bellevue's workforce moves through the region.
+An interactive dashboard relevant to anyone who travels to, from, or within Bellevue for work. It covers topics such as commute times, transportation modes, and commute origins and destinations — providing a data-driven picture of how Bellevue's workforce moves through the region.
 
 [View Dashboard](https://bellevuedemographics.shinyapps.io/CommuterProfileApp/){: .btn .btn--primary}
 
@@ -40,7 +40,7 @@ An interactive dashboard presenting data on commuting patterns relevant to anyon
 
 [![Living in Bellevue Dashboard](/images/living-bellevue.png)](https://bellevuedemographics.shinyapps.io/LivingProfileApp/)
 
-An interactive dashboard presenting data relevant to current Bellevue residents and those considering making Bellevue their home. Organized thematically across multiple tabs, it covers the topics and questions people are most likely to have about what daily life in Bellevue looks like — from housing and cost of living to neighborhood characteristics and community amenities.
+An interactive dashboard relevant to current Bellevue residents and those considering making Bellevue their home. It covers the topics and questions people are most likely to have about what daily life in Bellevue looks like — from housing and cost of living to neighborhood characteristics and community amenities.
 
 [View Dashboard](https://bellevuedemographics.shinyapps.io/LivingProfileApp/){: .btn .btn--primary}
 
@@ -52,7 +52,7 @@ An interactive dashboard presenting data relevant to current Bellevue residents 
 
 [![Working in Bellevue Dashboard](/images/working-bellevue.png)](https://bellevuedemographics.shinyapps.io/WorkingProfileApp/)
 
-An interactive dashboard presenting data on Bellevue's economy and workforce — designed for current and prospective workers, employers, and economic development professionals. Organized thematically across multiple tabs, it covers the topics most relevant to understanding what working in Bellevue looks like, including industry composition, employment trends, wages, and the characteristics of the city's labor force.
+An interactive dashboard relevant to Bellevue's economy and workforce — designed for current and prospective workers, employers, and economic development professionals. It covers the topics most relevant to understanding what working in Bellevue looks like, including industry composition, employment trends, wages, and the characteristics of the city's labor force.
 
 [View Dashboard](https://bellevuedemographics.shinyapps.io/WorkingProfileApp/){: .btn .btn--primary}
 
