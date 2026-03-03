@@ -514,6 +514,69 @@ tbody td {
   color: var(--text-primary);
 }
 
+/* ── Sidebar Width & Layout Fix ───────────────────────────── */
+
+/* Shrink the sidebar and ensure it doesn't overlap content */
+.sidebar.sticky {
+  width: 200px !important;
+  min-width: 200px !important;
+  max-width: 200px !important;
+  text-align: center !important;
+  padding-right: 0 !important;
+  float: left !important;
+  overflow: visible !important;
+}
+
+/* Center all sidebar content */
+.author__avatar,
+.author__content,
+.author__urls-wrapper {
+  text-align: center !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.author__avatar {
+  margin-bottom: 0.75rem !important;
+}
+
+.author__avatar img {
+  display: block !important;
+  margin: 0 auto !important;
+}
+
+.author__urls {
+  text-align: left !important; /* keep link text left-aligned inside the dropdown */
+}
+
+/* Push page content away from the sidebar */
+@media (min-width: 64em) {
+  .sidebar ~ .page,
+  .sidebar ~ #main,
+  .page__inner-wrap {
+    margin-left: 220px !important;
+  }
+
+  /* Minimal Mistakes uses a float layout — give the main content a clear left margin */
+  .page {
+    width: calc(100% - 220px) !important;
+    float: right !important;
+  }
+}
+
+@media (min-width: 80em) {
+  .sidebar.sticky {
+    width: 220px !important;
+    min-width: 220px !important;
+    max-width: 220px !important;
+  }
+
+  .page {
+    width: calc(100% - 240px) !important;
+  }
+}
+
 /* ── Subtle page entry animation ─────────────────────────── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(12px); }
