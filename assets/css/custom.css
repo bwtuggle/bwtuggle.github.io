@@ -524,7 +524,7 @@ tbody td {
   max-width: 180px !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
-  padding-top: 100px !important; /* clear the 70px fixed masthead */
+  padding-top: 110px !important; /* clear the 70px fixed masthead */
 }
 
 /* Center all sidebar content */
