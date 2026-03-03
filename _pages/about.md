@@ -23,7 +23,7 @@ Before my current role, I worked as the policy analyst for the nonpartisan, non-
 
 ## Beyond the Work
 
-When I'm not doing social science things, I'm usually out running the trails around Seattle, experimenting in the kitchen, or finding an excuse to be somewhere outdoors. I believe strongly in the value of whimsy — that a little playfulness makes everything, including rigorous research, better.
+When I'm not doing social science things, I'm usually out running on the trails around Seattle, playing disc golf, experimenting in the kitchen, or finding an excuse to be somewhere outdoors. I believe strongly in the value of whimsy — that a little playfulness makes everything, including rigorous research, better.
 
 ## Get in Touch
 
