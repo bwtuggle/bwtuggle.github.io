@@ -572,3 +572,19 @@ tbody td {
 }
 
 .sidebar { animation-delay: 0.1s; }
+
+/* ── Wide page layout fix (classes: wide in front matter) ─── */
+/* On wide pages the sidebar is hidden, so remove the padding-left offset */
+.layout--single.wide .page__content,
+.layout--single.wide .page__inner-wrap,
+.page__content.wide,
+.wide .page__inner-wrap,
+.wide #main,
+.wide .page {
+  padding-left: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  float: none !important;
+}
