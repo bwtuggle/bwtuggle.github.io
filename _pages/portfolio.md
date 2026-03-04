@@ -20,8 +20,6 @@ The flagship community data dashboard for the City of Bellevue. Organized across
 
 [View Dashboard](https://bellevuedemographics.shinyapps.io/DemographicProfileApp/){: .btn .btn--primary} &nbsp; [View Code on GitHub](https://github.com/bwtuggle/Bellevue-Demographic-Profile){: .btn .btn--inverse}
 
-*Built with R & Shiny · Data: U.S. Census Bureau ACS*
-
 ---
 
 ## Commuting in Bellevue
@@ -31,8 +29,6 @@ The flagship community data dashboard for the City of Bellevue. Organized across
 An interactive dashboard relevant to anyone who travels to, from, or within Bellevue for work. It covers topics such as commute times, transportation modes, and commute origins and destinations — providing a data-driven picture of how Bellevue's workforce moves through the region.
 
 [View Dashboard](https://bellevuedemographics.shinyapps.io/CommuterProfileApp/){: .btn .btn--primary}
-
-*Built with R & Shiny · Data: U.S. Census Bureau ACS*
 
 ---
 
@@ -44,8 +40,6 @@ An interactive dashboard relevant to current Bellevue residents and those consid
 
 [View Dashboard](https://bellevuedemographics.shinyapps.io/LivingProfileApp/){: .btn .btn--primary}
 
-*Built with R & Shiny · Data: U.S. Census Bureau ACS*
-
 ---
 
 ## Working in Bellevue
@@ -56,8 +50,6 @@ An interactive dashboard relevant to Bellevue's economy and workforce — design
 
 [View Dashboard](https://bellevuedemographics.shinyapps.io/WorkingProfileApp/){: .btn .btn--primary}
 
-*Built with R & Shiny · Data: U.S. Census Bureau ACS*
-
 ---
 
 ## Thriving in Bellevue
@@ -67,7 +59,5 @@ An interactive dashboard relevant to Bellevue's economy and workforce — design
 An interactive dashboard that takes a different approach from the other four — rather than profiling a specific domain of community life, it highlights positive outcomes and achievements, showcasing the ways Bellevue residents are thriving and the areas in which Bellevue is recognized as an exceptional place to live and work.
 
 [View Dashboard](https://bellevuedemographics.shinyapps.io/ThrivingProfileApp/){: .btn .btn--primary}
-
-*Built with R & Shiny · Data: Various sources*
 
 ---
