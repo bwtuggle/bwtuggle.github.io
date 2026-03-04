@@ -3,10 +3,9 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
-classes: wide
 ---
 
-A selection of interactive data dashboards built with R and Shiny for the City of Bellevue's Community Development Department. Each dashboard draws on publicly available data sources and is designed to make community data accessible and meaningful to a broad audience — from city planners and policymakers to residents and prospective newcomers.
+A selection of interactive data dashboards built using the R programming language and the Shiny framework for the City of Bellevue's Community Development Department. Each dashboard draws on publicly available data sources and is designed to make community data accessible and meaningful to a broad audience — from city planners and policymakers to residents and prospective newcomers.
 
 All five dashboards are maintained as part of my work as Chief Demographer at the [City of Bellevue](https://bellevuewa.gov/) and are publicly accessible via the city's [Community Data page](https://bellevuewa.gov/city-government/departments/community-development/data).
 
